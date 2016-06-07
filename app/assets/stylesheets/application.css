@@ -18,15 +18,33 @@
   background-color: #7C5AC6;
 }
 
+.custom-green-font {
+  color: #609448;
+}
+
+.purple-shadow {
+  text-shadow: 1px 1px #7C5AC6 ;
+}
+
 .homepage-image {
-  width: 25vw;
+  width: 45vw;
   height:"auto";
+  padding-top: 3%;
 }
 
 .homepage-logo {
-  width: 80vh;
+  width: 80%;
+}
+
+.navbar-logo {
+  height: 100%;
+  width: auto;
 }
 
 .dancing-script {
   font-family: 'Dancing Script', cursive;
+}
+
+.homepage-bottle {
+  max-height: 40vh;
 }
