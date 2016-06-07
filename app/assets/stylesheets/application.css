@@ -17,3 +17,16 @@
 .custom-purple-background {
   background-color: #7C5AC6;
 }
+
+.homepage-image {
+  width: 25vw;
+  height:"auto";
+}
+
+.homepage-logo {
+  width: 80vh;
+}
+
+.dancing-script {
+  font-family: 'Dancing Script', cursive;
+}
