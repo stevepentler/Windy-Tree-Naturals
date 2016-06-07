@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+.custom-purple-background {
+  background-color: #7C5AC6;
+}
